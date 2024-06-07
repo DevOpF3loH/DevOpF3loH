@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/nthiwa-felix-04bb5724b" target="_blank">
+<a href="https://www.linkedin.com/in/nthiwa-felix-04bb5724b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
 </a>&nbsp;&nbsp;
 </p>
