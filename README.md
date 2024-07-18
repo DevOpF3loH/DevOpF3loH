@@ -8,7 +8,9 @@
 
 - 🌱 I’m proficient in **React/Next Js and Node Js**
   
-- 💻 Website **https://portfolio-63c43.web.app/**
+- 💻 Websites
+- **https://devf3loh.great-site.net/**
+- **https://portfolio-63c43.web.app/**
 
 - 📫 How to reach me **devopnthw@gmail.com**
 
