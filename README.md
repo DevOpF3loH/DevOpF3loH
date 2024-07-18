@@ -2,7 +2,7 @@
 <img align="top" alt="Coding" width="1000" height = "auto" src="https://github.com/DevOpF3loH/DevOpF3loH/assets/126726529/ed63e52f-7592-420a-a020-6bdaee4dd7a1">
 <img align="left" alt="Coding" width="400" height = "200" src="https://github.com/DevOpF3loH/DevOpF3loH/assets/126726529/53bbb047-b4d6-47ef-b358-b713ad97a141">
 <h1 align="center">01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001 00100001 👋, I'm DevF3lOh</h1>
-<h3 align="center">Experiencing what's it like to talk to a computer 💻</h3>
+<h3 align="center">Experiencing myself through a computer💻</h3>
 <h3 align="center">Fullstack Software Developer | UX Designer | Cloud Engineer | Mobile Developer </h3>
 <img align="right" alt="Coding" width="400" height = "auto" src="https://github.com/DevOpF3loH/DevOpF3loH/assets/126726529/6dd68151-3c5e-419c-8aaa-5a8956d336c6">
 
