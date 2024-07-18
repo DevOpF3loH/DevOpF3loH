@@ -39,7 +39,7 @@
 
 - **I Love You❤️**
   
-- **I'm sorry🫂**
+- **I'm sorry🥰**
   
 - **I forgive you🤗**
   
