@@ -10,7 +10,6 @@
   
 - 💻 Websites
 - **https://dev-f3loh-portfolio.vercel.app/**
-- **https://devf3loh.great-site.net/**
 - **https://portfolio-63c43.web.app/**
 
 - 📫 How to reach me **devopnthw@gmail.com**
